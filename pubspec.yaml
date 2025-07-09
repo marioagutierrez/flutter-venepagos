@@ -1,6 +1,6 @@
 name: venepagos
 description: SDK oficial de Venepagos para Flutter. Integra fácilmente pagos con ventana emergente y callbacks.
-version: 1.0.0
+version: 1.0.1
 homepage: https://venepagos.com.ve
 repository: https://github.com/marioagutierrez/flutter-venepagos
 
